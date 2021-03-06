@@ -1,0 +1,9 @@
+This is exercise performed by you
+2021-02-21 21:27:39.698014  running
+2021-02-21 21:30:06.905874  gym
+2021-02-21 21:32:06.587349  wrestling
+2021-02-22 14:18:24.466284  job
+2021-02-22 14:27:43.531819  lunch sabzi roti
+2021-02-23 11:50:00.337226  bikestunts
+2021-02-27 17:37:15.468795  laerning python
+2021-02-28 23:39:08.668881  laernt git hub
